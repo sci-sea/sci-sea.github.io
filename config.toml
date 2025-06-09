@@ -1,0 +1,4 @@
+baseURL = 'https://sci-sea.github.io'
+languageCode = 'en-us'
+title = "My Sci Site"
+theme = "PaperMod"
