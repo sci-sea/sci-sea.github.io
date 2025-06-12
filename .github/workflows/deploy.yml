@@ -1,3 +1,5 @@
+┌──(root㉿kali)-[~/myblog/.github/workflows]
+└─# cat deploy.yml
 name: Deploy Hugo to GitHub Pages
 
 on:
@@ -32,4 +34,3 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           force_orphan: true  # Keeps gh-pages branch clean
-
