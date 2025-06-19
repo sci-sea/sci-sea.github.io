@@ -3,3 +3,13 @@ languageCode = 'en-us'
 title = "My Sci Site"
 theme = "PaperMod"
 publishDir = "docs"
+# SEO Essentials
+enableRobotsTXT = true
+metaDataFormat = "yaml"
+title = "Your Site Title"
+description = "Clear site description"
+
+# Sitemap (for search engines)
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
