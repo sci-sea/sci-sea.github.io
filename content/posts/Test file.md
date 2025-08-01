@@ -11,4 +11,4 @@ categories:
 
 This is a test post to ensure our Hugo setup is working correctly.
 
-UPLOAD...
+<!-- UPLOADED 2025-08-02 00:49:04-->
