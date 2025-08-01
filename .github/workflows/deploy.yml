@@ -1,5 +1,3 @@
-┌──(root㉿kali)-[~/myblog/.github/workflows]
-└─# cat deploy.yml
 name: Deploy Hugo to GitHub Pages
 
 on:
