@@ -11,4 +11,3 @@ categories:
 
 This is a test post to ensure our Hugo setup is working correctly.
 
-<!--PLOADED 2025-08-02 00:35:03-->
