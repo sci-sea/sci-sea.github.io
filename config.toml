@@ -1,14 +1,41 @@
 baseURL = 'https://sci-sea.github.io/'
 languageCode = 'en-us'
-title = "My Sci Site"
-theme = "PaperMod"
-publishDir = "public"
-# SEO Essentials
+title = 'Sci-Sea'
+theme = 'PaperMod'
+publishDir = 'public'
+defaultContentLanguage = 'en'
 enableRobotsTXT = true
-metaDataFormat = "yaml"
-description = "Clear site description"
+paginate = 6
 
-# Sitemap (for search engines)
-[sitemap]
-  changefreq = "daily"
-  priority = 0.5
+[markup]
+  [markup.highlight]
+    noClasses = false
+
+[params]
+  env = "production"
+  title = "Sci-Sea"
+  description = "Exploring science and the sea"
+  author = "Sci-Sea Team"
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+  [params.homeInfoParams]
+    Title = "Welcome to Sci-Sea"
+    Content = "Your gateway to ocean science and discovery."
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/sci-sea"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    pageRef = "/posts"
+    weight = 2
+    
