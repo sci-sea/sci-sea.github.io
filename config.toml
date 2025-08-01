@@ -5,7 +5,9 @@ theme = 'PaperMod'
 publishDir = 'public'
 defaultContentLanguage = 'en'
 enableRobotsTXT = true
-paginate = 6
+[pagination]
+  pagerSize = 6
+  
 
 [markup]
   [markup.highlight]
