@@ -1,7 +1,7 @@
 ---
 title: Test Post
 date: 2025-08-01T21:48:10+05:30
-draft: true
+draft: false
 description: A test post to verify our setup
 tags: 
 categories: 
