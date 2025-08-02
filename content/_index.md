@@ -1,8 +1,8 @@
 ---
-title: "My Sci Site"
-description: "Exploring science and marine life"
+title: "Sci-Sea"
+description: "Exploring science and it's marvels"
 ---
 
 # Welcome to My Sci Site
 
-Discover the wonders of science and marine exploration through our blog posts and research.
+Discover the wonders of Science and its beautiful intricate workings.
