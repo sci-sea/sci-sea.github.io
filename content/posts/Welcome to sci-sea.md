@@ -12,4 +12,5 @@ categories:
 This is our first post exploring the fascinating world of science.
 
 ![welcome](/images/file-EonNF4ap6LEVp9rkpgjeFh%201.webp)
-UPLOAD...
+
+Upload...
